@@ -1,4 +1,4 @@
- About this project: My teammate and I created tool that determines whether the movie described in the movie review in Action/Adventure or not.
+ About this project: My teammate and I created a tool that determines whether the movie described in the movie review in Action/Adventure or not.
 
 Final report: 
 
